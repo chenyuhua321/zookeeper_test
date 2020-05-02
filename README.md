@@ -20,7 +20,7 @@ zookeeper和netty结合实现rpc
 
 关闭第一个服务，服务下线。重新启动后，重连上服务器
 
-![断线重连](https://gitee.com/chenyuhua321/zookeeper_test/blob/master/img/%E6%96%AD%E7%BA%BF%E9%87%8D%E8%BF%9E.gif)
+![断线重连](https://gitee.com/chenyuhua321/zookeeper_test/raw/master/img/%E6%96%AD%E7%BA%BF%E9%87%8D%E8%BF%9E.gif)
 
 
 
@@ -28,7 +28,7 @@ zookeeper和netty结合实现rpc
 
 zookeeper的节点
 
-![微信图片_20200503044320](https://gitee.com/chenyuhua321/zookeeper_test/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200503044320.png)
+![微信图片_20200503044320](https://gitee.com/chenyuhua321/zookeeper_test/raw/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200503044320.png)
 
 #### 参与贡献
 
