@@ -6,18 +6,29 @@ zookeeper和netty结合实现rpc
 #### 软件架构
 软件架构说明
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+**第一个项目**
+
+首先启动客户端发现，一个服务
+
+![启动client](D:\拉钩作业\zookeeper_test\img\启动client.gif)
+
+然后启动第二个服务器，客户端成功发现第二个服务并连接
+
+![启动第二个server](D:\拉钩作业\zookeeper_test\img\启动第二个server.gif)
+
+关闭第一个服务，服务下线。重新启动后，重连上服务器
+
+![断线重连](D:\拉钩作业\zookeeper_test\img\断线重连.gif)
+
+
+
+第三个项目
+
+zookeeper的节点
+
+![微信图片_20200503044320](D:\拉钩作业\zookeeper_test\img\微信图片_20200503044320.png)
 
 #### 参与贡献
 
